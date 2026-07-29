@@ -1,4 +1,4 @@
-# Automated Network Health Monitoring & VLAN Routing Lab
+# Automated Network Health Monitoring & Cross-VLAN Routing Lab
 
 A dual subnet enterprise network simulation featuring VLAN routing, NAT, iptables, packet capture, and a custom Python/SQLite automated health monitoring daemon.
 
